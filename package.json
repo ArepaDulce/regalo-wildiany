@@ -16,6 +16,7 @@
     "react-dom": "^19.2.8"
   },
   "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
     "@capacitor/cli": "^8.4.3",
     "@eslint/js": "^10.0.1",
     "@tailwindcss/postcss": "^4.3.3",
